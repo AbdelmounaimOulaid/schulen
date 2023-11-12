@@ -54,7 +54,7 @@
                     <div class="kilimanjaro_part m-top-15">
                         <h5>Contact Us</h5>
                         <ul class="kilimanjaro_links">
-                            <li><a href="mailto:contact@schulenltd.us"><i class="far fa-envelope"></i> contact@schulenltd.com</a></li>
+                            <li><a href="mailto:contact@schulenltd.us"><i class="far fa-envelope"></i> contact@schulen.com</a></li>
                             <li><a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+1 (206) 201-2259</a></li>
                             <li><a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+1 (206) 201-2259</a></li>
                             <li><a href="#"><i class="far fa-clock"></i> Monday - Saturday</a></li>
@@ -218,14 +218,14 @@
 
                                         <li>
 
-                                            <a href="mailto:contact@schulenltd.com"><i class="far fa-envelope"></i> contact@schulenltd.com</a>
+                                            <a href="mailto:contact@schulen.com"><i class="far fa-envelope"></i> contact@schulen.com</a>
                                         
                                             
                                         </li>
 
                                         <li>
                                             
-                                            <a href="mailto:hiring@schulenltd.com"><i class="far fa-envelope"></i> hiring@schulenltd.com</a>
+                                            <a href="mailto:hiring@schulen.com"><i class="far fa-envelope"></i> hiring@schulen.com</a>
                                         
                                             
                                         </li>

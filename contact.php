@@ -8,7 +8,7 @@ if (isset($_POST['submit'])) {
     $message = $_POST['message'];
     if (!(empty($name) && empty($email) && empty($subject) && empty($message))) {
         include('include/mail.php');
-        $email_to = "contact@schulenltd.com";
+        $email_to = "contact@schulen.com";
         header("Location: contact.php?Status=" . smtpmailer($email_to, $email, $name, $subject, $message));
     }
 }
@@ -159,7 +159,7 @@ if (isset($_POST['submit'])) {
                                                 <span class="fa fa-paper-plane"></span>
                                             </div>
                                             <div class="text pl-3">
-                                                <p><span>Email:</span> <a href="mailto:info@yoursite.com">contact@schulenltd.com</a></p>
+                                                <p><span>Email:</span> <a href="mailto:info@yoursite.com">contact@schulen.com</a></p>
                                             </div>
                                         </div>
                                         <div class="dbox w-100 d-flex align-items-center">
